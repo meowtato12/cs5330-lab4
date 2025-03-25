@@ -10,3 +10,7 @@ The application is built using **Python, OpenCV, PyTorch, and Gradio**.
 - **Depth Simulation**: Inserts the segmented person at different depth levels (**Close, Medium, Far**) using **disparity shifts**.
 - **3D Anaglyph Generation**: Creates a **red-cyan anaglyph image** for viewing with 3D glasses.
 - **User-Friendly UI**: Implemented using **Gradio** for easy interaction.
+  
+## Other
+- **Gradio App**: https://huggingface.co/spaces/lihejia09/3D_Image_Composer
+- **Lab Report**: Please see submission on Canvas.
